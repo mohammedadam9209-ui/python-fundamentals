@@ -1,2 +1,10 @@
-# python-fundamentals
-2nd PUC student | Learning Python and AI | Aspiring Agentic AI developer
+# Python Fundamentals
+
+This repository contains basic Python programs created while learning Python.
+
+Topics covered:
+- Variables
+- Data types
+- Conditions
+- Loops
+- Functions
