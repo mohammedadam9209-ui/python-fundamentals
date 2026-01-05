@@ -9,7 +9,7 @@ import httpx
 
 # Read environment variables
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8409174359:AAF6Q3xZ_u5W60Q8QzVOHHA0hs60wsyUzJE")
-AI_API_KEY = os.environ.get("AI_API_KEY", "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")
+AI_API_KEY = os.getenv("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")
 AI_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Configure logging
